@@ -1,0 +1,27 @@
+.Heading-1 {
+    background-color: rgb(97, 220, 56);
+    color: rgb(21, 3, 3);
+    margin: auto
+    border: 5px solid rgb (97, 220, 56);
+}
+
+.Box-1{
+    background-color: rgb(246, 235, 235);
+    color: rgb(8, 1, 1);
+    height: 150px; width: 150px; 
+    border: 4px solid greenyellow;
+    margin: left; 
+    border-radius: 5px;
+}
+
+.Box-2{
+    background-color: rgb(235, 199, 199);
+    color: rgb(21, 3, 3);
+    height: 150px; width: 150px; 
+    border: 4px solid greenyellow;
+}
+
+.Marquee {
+    background-color: rgb(235, 199, 199);
+    color: rgb(21, 3, 3);
+}
